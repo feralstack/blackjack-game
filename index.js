@@ -1,6 +1,6 @@
 let player = {
-    name: "Per",
-    chips: 200
+    name: "FeralStack",
+    chips: 500
 }
 
 let cards = []
@@ -31,7 +31,7 @@ function startGame() {
     let firstCard = getRandomCard()
     let secondCard = getRandomCard()
     cards = [firstCard, secondCard]
-    sum = firstCard + secondCard
+    sum = cards[0] + cards[1]
     renderGame()
 }
 
