@@ -10,7 +10,7 @@ Scrimba code along learning project to create a simple blackjack game. I worked 
 
 ## 🚀 Live Demo
 
-[INSERT LINK HERE]
+https://willowy-travesseiro-add552.netlify.app
 
 ## 🧠 What I Learned
 
