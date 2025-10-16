@@ -18,15 +18,14 @@ https://willowy-travesseiro-add552.netlify.app
 - Objects - how to create them, that they can store multiple types of data, how to access specific items of data with the `object.data` notation
 - Booleans - true or false
 - `if else` statements - determine what will be returned according to the selected criteria
-- Comparison operators - equal to `===`, greater than `>`, less thank `>`
+- Comparison operators - equal to `===`, greater than `>`, less than `>`
 - Logical operators - AND `&&`, OR `||` - `&&` used so that a new card can only be drawn whilst the player is still in the game (ie. not bust or holding blackjack)
 - `for` loops - used to create incremental iteration (in this case for outputting the card numbers from the array)
 - The `Math` object - used for generating random numbers `Math.random()` , knowing to multiply by the whole number to get ranges above 1, and rounding down to nearest integer `Math.floor()` (have to add +1 as `.floor` will always round down, and `.random` number will always be less than whole number eg. 6 will be 5.99, which flow will round down to 5)
 - `return` statements - specifies value to be returned by a function
 
-## 📦 Next Steps
+## 📦 Future Enhancements 
 
-- [x] Deploy to Netlify
 - [ ] Allow player to enter their own name
 - [ ] Allow player to place bet for each game and deduct amount from balance
 - [ ] Add player winnings to player balance
