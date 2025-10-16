@@ -24,7 +24,7 @@ https://willowy-travesseiro-add552.netlify.app
 - The `Math` object - used for generating random numbers `Math.random()` , knowing to multiply by the whole number to get ranges above 1, and rounding down to nearest integer `Math.floor()` (have to add +1 as `.floor` will always round down, and `.random` number will always be less than whole number eg. 6 will be 5.99, which flow will round down to 5)
 - `return` statements - specifies value to be returned by a function
 
-## 📦 Future Enhancements
+## 📦 Future Enhancements 
 
 - [ ] Allow player to enter their own name
 - [ ] Allow player to place bet for each game and deduct amount from balance
